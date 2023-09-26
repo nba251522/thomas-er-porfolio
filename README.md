@@ -31,7 +31,7 @@ To gain a comprehensive understanding of Thomas Er's professional journey, [visi
 
 ## Projects
 
-The portfolio highlights a selection of Thomas Er's notable projects, each elucidating his approach to coding, problem-solving, and team collaboration. Each project comes with a brief description, the technologies used, and a link to the deployed application or code repository.
+The portfolio highlights a selection of Thomas Er's notable projects, each elucidating his approach to coding, problem-solving, and team collaboration. Each project was carefully designed and created to meet the customer's requests. A link has been provided to each website that Thomas Er helped to create.
 
 ## Author Info
 
