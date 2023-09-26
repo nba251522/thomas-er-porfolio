@@ -18,16 +18,12 @@ The objective of this project was to offer a digital space where potential emplo
 
 ![Portfolio Landing Page Image](Develop/assets/images/Webpage%20snip.PNG)
 
-## Table of Contents                                                                                                                        6                    
-- [Code Refactor Example](#code-refactor-example)                               
+## Table of Contents                                                                                                                        5                                               
 - [Usage](#usage)
 - [Projects](#projects)
 - [Author Info](#author-info)
 - [Credits](#credits)
 - [License](#license)
-
-## Code Refactor Example
-
 
 ## Usage                                                                            
 
@@ -40,7 +36,7 @@ The portfolio highlights a selection of Thomas Er's notable projects, each eluci
 ## Author Info
 
 **Thomas Er**
-- [LinkedIn](www.linkedin.com/in/thomas-er-9b77321b9)
+- [LinkedIn](https://www.linkedin.com/in/thomas-er-9b77321b9)
 - [Github](https://github.com/nba251522)
 
 ## Credits
@@ -50,6 +46,7 @@ The creation of this portfolio was aided by insights from the following resource
 - [Super Simple Dev - YouTube](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=1188s&ab_channel=SuperSimpleDev)
 - [W3Schools - CSS Tutorial](https://www.w3schools.com/css/default.asp)
 - [W3Schools - HTML Tutorial](https://www.w3schools.com/html/default.asp)
+- [AltCampus Article](https://altcampus.com/posts/list-of-simple-projects-to-build-to-learn-and-be-good-at-html-and-css): This article provided the images used as placeholders for the project section
 
 ## License
 
