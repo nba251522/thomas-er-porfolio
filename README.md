@@ -1,4 +1,4 @@
-# Digital Marketing Strategies Overview
+# Thomas Er's Portfolio
 
 ## Technology Used
 
@@ -10,58 +10,32 @@
 
 ## Description
 
-[Visit the Deployed Site](https://nba251522.github.io/Digital-Marketing-Strategies-Webpage/)
+[Visit the Deployed Portfolio](https://nba251522.github.io/Thomas-Ers-Portfolio/)
 
-The "Digital Marketing Strategies Overview" web application was developed to provide users with knowledge of key digital marketing strategies. Understanding these strategies is crucial as the digital world is constantly evolving. This application offers insights into Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
+"Thomas Er's Portfolio" is a curated showcase of Thomas Er's professional endeavors, projects, and skills in the digital domain. In today's competitive career landscape, a personal portfolio serves as a testament to one's capabilities, providing tangible proof of their expertise and their unique approach to problem-solving.
 
-The goal of this project was to create an informative and easy-to-use resource, helping users quickly understand each strategy's essentials. In today's digital age, a robust online presence can significantly impact a business. Through this application, users will be able to gain the knowledge they need to excel online.
+The objective of this project was to offer a digital space where potential employers, colleagues, or collaborators can get an insight into Thomas Er's abilities and past works. The portfolio includes various projects, contributions, and certifications that underline his proficiency and commitment to the tech industry.
 
-![Site Landing Page Image](Develop/assets/images/Webpage%20snip.PNG)
+![Portfolio Landing Page Image](Develop/assets/images/Webpage%20snip.PNG)
 
-## Table of Contents
-- [Code Refactor Example](#code-refactor-example)
+## Table of Contents                                                                                                                        6                    
+- [Code Refactor Example](#code-refactor-example)                               
 - [Usage](#usage)
-- [Learning Points](#learning-points)
+- [Projects](#projects)
 - [Author Info](#author-info)
 - [Credits](#credits)
 - [License](#license)
 
 ## Code Refactor Example
 
-Original:
 
-```html
-<div class="header">
-   ...
-</div>
+## Usage                                                                            
 
-Transformed into:
+To gain a comprehensive understanding of Thomas Er's professional journey, [visit the deployed site](https://nba251522.github.io/Thomas-Ers-Portfolio/). Navigate through the sections to explore the various projects, experiences, and skills showcased.
 
-<header>
-    ...
-</header>
+## Projects
 
-This change required me to put the following updates in the CSS. From:
-
-.header {...}
-
-To:
-
-header {...}
-
-```
-
-## Usage
-
-To get a firsthand experience of the application, [visit the deployed site](#). For a visual walkthrough, see the GIF included above. Navigate through different sections to understand each digital marketing strategy in detail.
-
-## Learning Points
-
-Developing this application was not just about coding but about understanding the intricacies of digital marketing. Some key takeaways include:
-
-- **SEO**: How optimizing content can vastly improve online visibility.
-- **Online Reputation Management**: The importance of managing one's digital footprint.
-- **Social Media Marketing**: Harnessing the power of social platforms for business growth.
+The portfolio highlights a selection of Thomas Er's notable projects, each elucidating his approach to coding, problem-solving, and team collaboration. Each project comes with a brief description, the technologies used, and a link to the deployed application or code repository.
 
 ## Author Info
 
@@ -71,7 +45,7 @@ Developing this application was not just about coding but about understanding th
 
 ## Credits
 
-This project would not be possible without the following guides and tutorials:
+The creation of this portfolio was aided by insights from the following resources:
 
 - [Super Simple Dev - YouTube](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=1188s&ab_channel=SuperSimpleDev)
 - [W3Schools - CSS Tutorial](https://www.w3schools.com/css/default.asp)
