@@ -28,7 +28,10 @@
 <section id="about-me">
     <h2>About Me</h2>
     <p>
-        [Your About Me Content Here]
+        Hello, I'm Thomas Er. At 22, I may be newer to the world of web development, but my passion and dedication have rapidly elevated my skills, allowing me to produce top-tier web applications. While I've quickly become proficient in fundamental web technologies like HTML, CSS, GitHub, and JavaScript, it's my ability to understand and prioritize client needs that truly sets me apart.
+    </p>
+    <p>
+        Every project I undertake is not just about the code but ensuring it deeply resonates with the target audience and meets its intended goals. Away from the keyboard, I'm committed to continuous learning, staying ahead of industry trends and best practices to deliver the best for my clients.
     </p>
 </section>
 
@@ -54,7 +57,7 @@
     </div>
     <div class="portfolio-item">
         <a href="https://altcampus.com/posts/list-of-simple-projects-to-build-to-learn-and-be-good-at-html-and-css">
-            <img src="Develop/assets/images/placeholder website 2.png" alt="Description of project 4">
+            <img src="Develop/assets/images/placeholder website 4.png" alt="Description of project 4">
             <h3>Project 4</h3>
         </a>
     </div>
@@ -62,9 +65,18 @@
 
 <section id="contact">
     <h2>Contact</h2>
-    <p>
-        [Your Contact Information or Form Here]
-    </p>
+    <form action="submit_form.php" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required placeholder="Your Name">
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required placeholder="Your Email">
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" rows="4" required placeholder="Your Message"></textarea>
+
+        <button type="submit">Submit</button>
+    </form>
 </section>
 
 </body>
