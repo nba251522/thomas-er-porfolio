@@ -18,16 +18,22 @@ The objective of this project was to offer a digital space where potential emplo
 
 ![Portfolio Landing Page Image](Develop/assets/images/Webpage%20snip.PNG)
 
-## Table of Contents                                                                                                                        5                                               
+## Table of Contents                                                                                                                        6      
+- [Installation](#installation)                                         
 - [Usage](#usage)
 - [Projects](#projects)
 - [Author Info](#author-info)
 - [Credits](#credits)
 - [License](#license)
 
+## Installation
+
+1. Clone the repository: `git clone https://github.com/nba251522/Thomas-Ers-Portfolio.git`
+2. Open `index.html` in your preferred browser.
+
 ## Usage                                                                            
 
-To gain a comprehensive understanding of Thomas Er's professional journey, [visit the deployed site](https://nba251522.github.io/Thomas-Ers-Portfolio/). Navigate through the sections to explore the various projects, experiences, and skills showcased.
+To gain a comprehensive understanding of Thomas Er's professional journey, [visit the deployed site](https://nba251522.github.io/thomas-er-porfolio/). Navigate through the sections to explore the various projects, experiences, and skills showcased.
 
 ## Projects
 
