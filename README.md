@@ -10,7 +10,7 @@
 
 ## Description
 
-[Visit the Deployed Portfolio](https://nba251522.github.io/Thomas-Er-Portfolio/)
+[Visit the Deployed Portfolio](https://nba251522.github.io/thomas-er-porfolio/)
 
 "Thomas Er's Portfolio" is a curated showcase of Thomas Er's professional endeavors, projects, and skills in the digital domain. In today's competitive career landscape, a personal portfolio serves as a testament to one's capabilities, providing tangible proof of their expertise and their unique approach to problem-solving.
 
@@ -28,7 +28,7 @@ The objective of this project was to offer a digital space where potential emplo
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/nba251522/Thomas-Er-Portfolio.git`
+1. Clone the repository: `git@github.com:nba251522/thomas-er-porfolio.git`
 2. Open `index.html` in your preferred browser.
 
 ## Usage                                                                            
