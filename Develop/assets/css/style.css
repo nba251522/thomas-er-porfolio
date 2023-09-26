@@ -24,11 +24,11 @@ header {
 .header-content {
     width: 80%; 
     margin: 0 auto; 
-}
+}                                                                                                                           
 
 .profile-picture {
-    width: 200px; 
-    height: 200px; 
+    width: 100px; 
+    height: 100px; 
     border-radius: 50%; 
     margin-top: 20px;
     object-fit: cover; 
@@ -45,7 +45,11 @@ nav ul {
 
 nav li {
     display: inline-block; 
-    margin: 0 50px; 
+    margin: 0 15px; 
+}
+
+h1, h2 {
+    margin-bottom: 20px;
 }
 
 #about-me, #portfolio, #contact {
@@ -56,6 +60,11 @@ nav li {
 
 .portfolio-item {
     margin: 20px 0;
+    float: left; 
+    width: 50%;
+    box-sizing: border-box;
+    padding: 15px;
+    text-align: center; 
 }
 
 .portfolio-item img {
@@ -77,21 +86,6 @@ nav li {
     margin: 0 auto; 
 }
 
-@media (max-width: 1023px) and (min-width: 768px) {
-    .profile-picture {
-        width: 150px;
-        height: 150px;
-    }
-
-    nav li {
-        margin: 0 30px;
-    }
-
-    #about-me, #portfolio, #contact {
-        width: 85%;
-    }
-}
-
 @media (max-width: 767px) {
     .profile-picture {
         width: 100px;
@@ -104,5 +98,9 @@ nav li {
 
     #about-me, #portfolio, #contact {
         width: 95%;
+    }
+
+    .portfolio-item {
+        width: 100%;
     }
 }
